@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="txt_instruction_header">Game Rules</string>
+    <string name="txt_game_instruction">
+        The object of Tic Tac Toe is to get three in a row. You play on a three by three game board.
+        The first player is known as X and the second is O. Players alternate placing Xs and Os on the game board
+        until either oppent has three in a row or all nine squares are filled. X always goes first, and in the event
+        that no one has three in a row, the stalemate is called a cat game.
+    </string>
+    <string name="txt_select_dimension">Select Game Mode</string>
+    <string name="txt_beginner">3/3</string>
+    <string name="txt_beginner2">Beginner</string>
+    <string name="txt_intermediate">4/4</string>
+    <string name="txt_intermediate2">Intermediate</string>
+    <string name="txt_advanced">5/5</string>
+    <string name="txt_advanced2">Advanced</string>
+    <string name="txt_sound">Enable Sound</string>
+    <string name="txt_character_select">Select Your Character</string>
+    <string name="txt_select_play_mode">Select Play Mode</string>
+    <string name="txt_single">Single</string>
+    <string name="txt_multiple">Multiple</string>
+    <string name="txt_player_one_name">Player one</string>
+    <string name="txt_player_two_name">Player two</string>
+    <string name="txt_draws">Draws </string>
+    <string name="txt_play">Play again</string>
+    <string name="txt_score_board">Score Board</string>
+    <string name="score_place_holder">0</string>
+    <string name="single">single</string>
+    <string name="multiple">multiple</string>
+    <string name="txt_reset">Reset score</string>
+    <string name="txt_menu">Menu</string>
+</resources>

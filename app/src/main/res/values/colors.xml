@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#1A237E</color>
+    <color name="view_bg">#E0E0E0</color>
+    <color name="category_beginner">#64DD17</color>
+    <color name="category_intermediate">#283593</color>
+    <color name="category_advanced">#FF1744</color>
+    <color name="reset_btn">#FF1744</color>
+    <color name="play_btn">#64DD17</color>
+    <color name="success">#64DD17</color>
+    <color name="default_text">#FFFFFF</color>
+    <color name="category_bg_color">#212121</color>
+    <color name="default_btn_color">@android:color/background_light</color>
+</resources>
